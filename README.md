@@ -6,6 +6,7 @@ Application used to generate REST Api for Acme Fresh.In this application user ca
 <br />
 
 - **Services Offered**
+
 1. User can Register.
 2. User can Login and Logout.
 3. Can add,update,delete the products.
@@ -42,6 +43,12 @@ This application requests user login. After launching the application open it in
 
 - User:  user123
 - Password:  password123
+
+- **Steps to use the Acme Fresh Api**
+
+- Need to register.
+- Need to login.
+- while login a Uuid key will be generated. Use this key as entire api's.
 
 
 
