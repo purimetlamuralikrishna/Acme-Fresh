@@ -48,7 +48,7 @@ This application requests user login. After launching the application open it in
 
 - Need to register.
 - Need to login.
-- while login a Uuid key will be generated. Use this key as entire api's.
+- while login a Uuid key will be generated. Use this key in entire api's.
 
 
 
