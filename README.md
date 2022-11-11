@@ -44,7 +44,7 @@ This application requests user login. After launching the application open it in
 - User:  user123
 - Password:  password123
 
-- **Steps to use the Acme Fresh Api**
+## Steps to use the Acme Fresh Api
 
 - Need to register.
 - Need to login.
