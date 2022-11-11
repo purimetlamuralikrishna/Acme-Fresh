@@ -8,13 +8,8 @@ Application used to generate REST Api for Acme Fresh.In this application user ca
 - **Services Offered**
 1. User can Register.
 2. User can Login and Logout.
-3. Grower can add,update,delete the products.
-4. Buyer can list the Products.
-
-
-- **Backend**
-1. Built authentication while login and logout using key.
-2. Stored the data on MySQL and used it for Authentication.
+3. Can add,update,delete the products.
+4. Can list the Products.
 
 
 <br />
