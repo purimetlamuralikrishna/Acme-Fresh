@@ -40,8 +40,8 @@ Application used to generate REST Api for Acme Fresh.In this application user ca
 
 This application requests user login. After launching the application open it in on the browser with http://localhost:8080/swagger-ui/#/ and enter below crediantles.
 
-- User: user
-- Password: password
+- User:  user123
+- Password:  password123
 
 
 
